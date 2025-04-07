@@ -21,7 +21,7 @@ A simple RESTful API for managing to-do items built with Django and Django REST 
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:sheakin/To-Do-List-REST-API.git
 cd todolistapi
 ```
 
